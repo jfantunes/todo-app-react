@@ -1,0 +1,21 @@
+{
+  "name": "todo-react-app",
+  "version": "1.0.0",
+  "description": "A todo app using reactjs",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jfantunes/todo-app-react.git"
+  },
+  "keywords": [
+    "reactjs",
+    "javascript"
+  ],
+  "author": "Jose Antunes",
+  "license": "ISC",
+  "devDependencies": {
+    "babel": "^6.5.2",
+    "bootstrap": "^3.3.6",
+    "react": "^15.0.1",
+    "react-dom": "^15.0.1"
+  }
+}
